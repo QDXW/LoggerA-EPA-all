@@ -34,6 +34,13 @@
 #include "../SGCC/protocol.h"
 #include "../alarm/alarmExtern.h"
 
+
+
+
+
+
+
+
 extern PortType sPortType;
 char g_AppPath[255];
 
