@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="../Alarm/alarm.c" open="1" top="0" tabpos="7">
+		<Cursor position="7504" topLine="189" />
+	</File>
+	<File name="../Alarm/alarmExtern.h" open="0" top="0" tabpos="0">
+		<Cursor position="905" topLine="1" />
+	</File>
+	<File name="../EnetPortPrs/Port_Fun.c" open="0" top="0" tabpos="11">
+		<Cursor position="1354" topLine="24" />
+	</File>
+	<File name="../Ethernet/Ethernet.c" open="1" top="0" tabpos="9">
+		<Cursor position="26673" topLine="779" />
+	</File>
+	<File name="../Main/main.c" open="1" top="0" tabpos="10">
+		<Cursor position="3659" topLine="97" />
+	</File>
+	<File name="../Module/Module.c" open="1" top="0" tabpos="5">
+		<Cursor position="39618" topLine="1004" />
+	</File>
+	<File name="../SGCC/protocol.c" open="1" top="0" tabpos="8">
+		<Cursor position="4330" topLine="78" />
+	</File>
+	<File name="../SGCC/store.c" open="1" top="0" tabpos="11">
+		<Cursor position="10649" topLine="239" />
+	</File>
+	<File name="../XML/xml.c" open="1" top="0" tabpos="6">
+		<Cursor position="28331" topLine="683" />
+	</File>
+	<File name="../interface/common.c" open="1" top="1" tabpos="3">
+		<Cursor position="62996" topLine="1659" />
+	</File>
+	<File name="../interface/common.h" open="1" top="0" tabpos="1">
+		<Cursor position="1207" topLine="25" />
+	</File>
+	<File name="../interface/exporthelper.c" open="1" top="0" tabpos="12">
+		<Cursor position="5862" topLine="191" />
+	</File>
+	<File name="../interface/interface.c" open="1" top="0" tabpos="2">
+		<Cursor position="37236" topLine="991" />
+	</File>
+	<File name="../interface/interfaceExtern.h" open="1" top="0" tabpos="13">
+		<Cursor position="2121" topLine="25" />
+	</File>
+	<File name="../interface/uart.c" open="1" top="0" tabpos="4">
+		<Cursor position="2064" topLine="48" />
+	</File>
+</CodeBlocks_layout_file>
